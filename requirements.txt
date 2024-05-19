@@ -1,0 +1,7 @@
+keras-ocr
+numpy
+opencv-python
+roboflow
+ultralytics
+os
+glob
