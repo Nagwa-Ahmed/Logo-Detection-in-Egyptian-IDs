@@ -1,7 +1,5 @@
-keras-ocr
-numpy
-opencv-python
+keras-ocr==0.9.0
+numpy>=1.18.5
+opencv-python>=4.2.0.34
 roboflow
 ultralytics
-os
-glob
