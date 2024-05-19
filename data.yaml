@@ -1,0 +1,12 @@
+names:
+- ids
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: efg-abkzc
+  url: https://universe.roboflow.com/dsiti/efg-abkzc/dataset/3
+  version: 3
+  workspace: dsiti
+test: ../test/images
+train: train: /content/efg-3/train/images
+val: /content/efg-3/valid/images
